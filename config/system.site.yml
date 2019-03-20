@@ -1,0 +1,14 @@
+uuid: 98255a33-b129-4da0-8811-8b06a36d8c5f
+name: composer-theatre
+mail: kit@getpantheon.com
+slogan: ''
+page:
+  403: ''
+  404: ''
+  front: /node
+admin_compact_mode: false
+weight_select_max: 100
+langcode: en
+default_langcode: en
+_core:
+  default_config_hash: yXadRE77Va-G6dxhd2kPYapAvbnSvTF6hO4oXiOEynI
